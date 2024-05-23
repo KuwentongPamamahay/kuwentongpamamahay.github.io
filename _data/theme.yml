@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
 featured-image: /assets/img/kp-header.jpg
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 14em # the margin from the top your title portion will appear.
+home-title-y-padding: 16em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is center
 
@@ -51,7 +51,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 # TIMELINE PAGE
 #
 # set either year-navigation or year-nav-increment to generate a year nav dropdown
-year-navigation: #"1900;1905;1910;1915;1920" # manually set years to appear in dropdown nav
+year-navigation: "2023;2024" # manually set years to appear in dropdown nav
 year-nav-increment: 5 # set increments to auto gen nav years
 
 ##########
