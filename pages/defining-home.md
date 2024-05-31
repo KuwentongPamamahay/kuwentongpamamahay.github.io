@@ -14,7 +14,7 @@ In the vignettes below, our storytellers share their experiences of feeling or n
 
 ## "My feelings of homesickness are not a longing for my hometown, but for a particular moment in time, because place does change."
 
-[1:41:20-1:45:15]
+{% include feature/video.html objectid="kp002" width="50" %}
 
 **Claire Baguio**: Okay, so we're almost at the end. And I just wanted to ask about home and homemaking. So, how do you define home? And are there any specific places here in like, Vancouver or Canada that make you feel at home? 
  
@@ -44,7 +44,7 @@ In the vignettes below, our storytellers share their experiences of feeling or n
 
 ## "Water is the connection to home."
 
-[00:03-4:25]
+{% include feature/video.html objectid="kp007" width="50" %}
 
 **Claire Baguio**:
 How do you define home?
@@ -59,7 +59,7 @@ Yeah…and so, whether I’m here at home, BC or home in the Philippines, I've a
 
 ## "Once I feel like, like it's permanent permanent then yeah, that would that would like really help with like, feeling more at home."
 
-[1:43-2:35, 3:55-4:21]
+{% include feature/audio.html objectid="kp011" width="50" %}
 
 **Jocelle Refol**: Do you have like any like specific areas in Joyce like what are like places that really remind you of like, the Philippines or home? 
 
@@ -68,8 +68,6 @@ Yeah…and so, whether I’m here at home, BC or home in the Philippines, I've a
 **JR**: Do you frequent those areas often or only on occasion? 
 
 **NL**: I don't anymore. I used to every time I used to go to church, but I kind of stopped because of school. And it's getting tough out there. But um, yeah, but I've stopped, I only go there when I'm like craving for Filipino food. But it kind of changed now for me, because I'm missing. I'm missing like Mexican culture severely.” 
-
-[2:57 – 4:21, 6:21 – 7:10]
 
 **NL**: “Yeah cuz like, I don't really have like, I've been moving. And it's not really like a permanent house. Like, probably like, something closely related to that would be like my boyfriend's house. But at the same time, that doesn't feel like as much of a home for me. It's just basically house. But at the same time, that doesn't feel like as much of a home for me. It's just basically like, where I currently live. That's, that's what I feel like at home.
 

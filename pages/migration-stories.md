@@ -15,6 +15,8 @@ These narratives of migration, including the vignettes below, also give us a sen
 
 ## "When I had to leave, I feel like I was doing a disservice to the nation."
 
+{% include feature/video.html objectid="kp001" width="50" %}
+
 **Claire Baguio**: So, again you talked again, about how you consider like, your friends places, like all these people, like where you feel safe and secure? How do you feel like you've made a home here, like in Canada? Or do you feel like...maybe this is a loaded question, but do you want to go back to the Philippines? 
  
 **Jasper Mallonga**: Oh, yeah, it is a loaded question.  
@@ -41,6 +43,8 @@ And this might be me leaning in more on my, on my advocacies. But before I left,
 
 ## "When I was living with a lot of Filipinos, I felt like, I didn't have to question myself so much."
 
+ {% include feature/button.html text="View Full Transcript" link="/items/kp010.html" color="success" %}
+
 **Hannah Balba**: “I was born in the Philippines. I was born in Manila. And both my parents are also Filipino. But in 2001, they decided to move to Canada, specifically Richmond BC as we had some connections in the city. So yeah, I lived in Richmond, basically all my life. I moved there in 2001, we moved to a very working class neighborhood called Colonial Drive. And that's a part of I think, Seafair West Richmond area– That is, historically, there's a lot of working class, new immigrants that settle in that neighborhood, because it's a more affordable part of Richmond. 
 So, yeah, growing up in Richmond was interesting, because I think, in the neighborhood that I lived in, there were actually a lot of Filipinos, because a lot of them are also newcomers, like our family. So I grew up with a lot of Filipinos in that sense, I think there was about maybe 9 or 10 Filipino families that I grew up with. And I'm still friends with a lot of them to this day. And so, I think, because we all grew up together, all of our parents kind of took care of each other, took care of us. I think being Filipino in Richmond, in that setting, I never really kind of felt isolated, just because I was around a lot of Filipinos all the time. 
 But it wasn't until you know, because I think Colonial Drive is a very, it's a stepping stone for a lot of people, for a lot of newcomers. Because eventually, we all moved out of that neighborhood into different parts of Richmond. So I don't see those Filipino families as much, but we're still very much close. And we're still very much friends. But I think when I moved out of that neighborhood, that was kind of when I started to feel ... that's when I started to feel a little bit different.”
@@ -49,7 +53,7 @@ But it wasn't until you know, because I think Colonial Drive is a very, it's a s
 
 ## "She couldn't include me in her application. Because during that time, with the Immigration Refugee Protection Act, the definition of a spouse is someone you're married to and of the opposite sex."
 
-[44:35-52:02]
+{% include feature/video.html objectid="kp002" width="50" %}
 
 **Claire Baguio**: All right. So, Tita Darla, tell me a little bit more about what it was like, for your partner to leave for many, many years and not be able to live together and how that influenced your migration.
 

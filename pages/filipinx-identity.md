@@ -19,7 +19,7 @@ In the vignettes below, storytellers share what, in all its complications, Filip
 
 ## "Oh, I rarely say that I'm Filipino Canadian."
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/KA6Bd7ZaYwo?si=SOjcTVhXh6XRcgGq&amp;start=1608" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+{% include feature/video.html objectid="kp001" width="50" %}
 
 **Claire Baguio**: And I have a bit of a maybe...a little bit off topic. But I mean, I'm wondering do you consider yourself to be Filipino Canadian, because you've only moved here in 2016. So, I'm wondering if that's an, I guess, like an identifier you use or you just identify as Filipino.
 
@@ -27,15 +27,11 @@ In the vignettes below, storytellers share what, in all its complications, Filip
 
 ## "We were always striving for like that Filipino-ness."
 
-[3:20-4:22]
+{% include feature/video.html objectid="kp009" width="50" %}
 
 **Sammie Jo Rumbaua**: “I guess the intro for myself being in Vancouver since 1990, is just I've always been involved in the Filipino community in regards to participating in Philippine Independence Day, with a dance with a hip hop dance group. That's kind of how I really got immersed with the Filipino community and with the entertainment, having friends that are dancers and hip hoppers, and DJs and all that stuff. So I actually started off doing all ages events here. But yeah, it was really like, kind of like, you know, a little bit of hip hop saved my life or my best friend's sister was a was a choreographer, and they actually held dance classes at Collingwood Neighbourhood Houses, Collingwood Neighborhood House. And so we just danced, and we wanted to perform for people. And so I was like, 16, and be like, let's book a hall and let's do competitions and all that stuff. So that was really like the start of even my event productions and stuff.”
 
-[6:55-8:15]
-
 **SJR**: But even coming to Vancouver, there was not that many Filipino, like coming to BC, there wasn't that many Filipinos in the schools at that time anyways. And so I think, you know, that whole transition of being like, okay, we're back in Canada, which is, which is cool, but we were always striving for like that Filipino-ness, like wanting, you know, we're lucky that my parents, you know, cook Filipino food, but we're always like, looking for those. You know, things like the markets, or just the stores and everything so, and then having, you know, that time of living in Vancouver, Surrey, Richmond, you know, you kind of saw more of the Filipinos in Richmond, because that's where most of the Chinese Filipino restaurants were, or stores or even. But, you know, like I said, Thank goodness for those independent days that every, you know, Filipino Independence Day Celebration, that's kind of where we gather and I would tell all my friends, like this sort of good and I only and in schools, I wasn't, there was not that many Filipinos in schools, but because of dance, a lot of Filipinos ended up joining us in dance. And I ended up like really being friends with a lot of private school kids. And that were Filipino. Because in the public school, we weren't they weren't there. Like it was mostly non Filipinos at that time. My early, early age.”
-
-[8:38-10:59]
 
 **Jocelle Refol**: How did you end up getting involved in the community at such a young age when there wasn't as many Filipinos that you could see present in Vancouver at that time?
 
@@ -43,7 +39,7 @@ In the vignettes below, storytellers share what, in all its complications, Filip
 
 ## “Well, I'm not the stereotype, and so maybe my identity isn't as strong because I don't follow those stereotypes.”
 
-[0:00-3:20]
+{% include feature/video.html objectid="kp008" width="50" %}
 
 **Claire Baguio**: Okay, so what is your relationship to being Filipino or Filipino Canadian? 
 
