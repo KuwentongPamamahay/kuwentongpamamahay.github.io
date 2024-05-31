@@ -44,19 +44,30 @@ We were fortunate that an opportunity came up with the one time Provincial 150 T
 
 ## Project Team
 
+**[Sliced Mango Collective](https://www.instagram.com/slicedmangoco/)**
 - Anne Claire Baguio
-- JP Catungal
-- Sydney Lines
-- Jasper Mallonga 
+- Jasper Mallonga
 - Jocelle Refol
-- Szu Shen
-- Alyssa Sy de Jesus
-- amanda wan
-- Bill Yuen
 - Kathleen Zaragosa
+
+**University of British Columbia**
+
+[Asian Canadian and Asian Migration Studies](https://acam.arts.ubc.ca/)
+- Dr. JP Catungal 
+- Szu Shen
+- amanda wan
+
+[PhD Arts Co-op Placement](https://artscoop.ubc.ca/graduate/phd-co-op/)
+- Sydney Lines 
+
+**[Heritage Vancouver Society](https://heritagevancouver.org/)**
+- Bill Yuen
+
+**Community Consultants**
+- Alyssa Sy de Jesus
 
 ## Partners and Sponsors
 
 {% include feature/image.html objectid="/assets/img/kp-sponsors.png" width="75" %}
 
-We gratefully acknowledge the financial support of the Province of British Columbia through the [150 Time Immemorial Grant Program](https://heritagebc.ca/funding/gov-funding/150-time-immemorial-grant-program/), the [City of Vancouver Cultural Grants Program](https://vancouver.ca/people-programs/cultural-grants-program.aspx), and the Quan Lee Excellence Fund in [Asian Canadian and Asian Migration Studies](https://acam.arts.ubc.ca/). In kind support provided by the [UBC Public Humanities Hub](https://publichumanities.ubc.ca/). 
+We gratefully acknowledge the financial support of the Province of British Columbia through the [150 Time Immemorial Grant Program](https://heritagebc.ca/funding/gov-funding/150-time-immemorial-grant-program/), the [City of Vancouver Cultural Grants Program](https://vancouver.ca/people-programs/cultural-grants-program.aspx), the [Mitacs Business Strategy Internship](https://www.mitacs.ca/our-programs/business-strategy-internship/), and the Quan Lee Excellence Fund in [Asian Canadian and Asian Migration Studies](https://acam.arts.ubc.ca/). In kind support provided by the [UBC Public Humanities Hub](https://publichumanities.ubc.ca/). 
