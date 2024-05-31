@@ -1,0 +1,36 @@
+---
+title: Cultural Spaces and Community
+layout: about
+permalink: /cultural-spaces.html
+credits: false
+---
+
+# Cultural Spaces and Community
+
+Unlike other longstanding racialized and immigrant communities, the Filipinx Canadian community in Greater Vancouver does not have a formally designated neighbourhood or community centre that it could call its own. While there are currently efforts to pursue the creation of a community centre, at present, our storytellers tell us that, for Filipinxs in Greater Vancouver, cultural and community spaces exist mostly informally and are conjured up through acts of gathering and collectivity. They take place in ‘other’ spaces, such as church basements, parks and party rooms where Filipinxs gather in community.  
+
+It is important to note that, given our internal diversity as Filipinxs in Canada, ‘culture’ and ‘community’ are fraught concepts. Culture and community are regionally, ethnically and generationally differentiated, performed differently depending on who one is and what one’s relationship is to Filipinx identity. Conflicts and disagreements over what cultural and community spaces should look like, who they should be for, who should be involved in their making, and how to make them as inclusive as possible exist at least partly because of the reality of identity and political differences within the community.  
+
+As the vignettes below show, for our storytellers, cultural and community spaces, in all their complications, are important spaces where we get to affirm each other and our communities’ ancestral, familial, regional, linguistic, spiritual or ethnic dimensions. They are spaces where we perform culture and community into being. In these spaces, we feel culture and community sensorially, as we smell and eat food, as we listen to and make music, as we speak our languages, and as we enjoy each other’s company. Storytellers signal that cultural and community spaces are spaces of support and recognition. In the absence of formal infrastructures for culture and community, cultural and community spaces are those spaces that we make for ourselves. 
+
+## "People can make cultural spaces anywhere."
+
+[7:03-10:58]
+
+**Josh Rasalan**: I forgot who told this to me, but I think someone said that cultural spaces don't have to be physical, but it really is with the people. So, people can make cultural spaces anywhere: in the park, in this library room, in the amenities room in an apartment. Anywhere, right? And so, it could have been at a tito's house, it could have been at a recreation center, like any space can be a cultural space, it's the people that makes it cultural spaces. And so, because that's, there is no really...Cultural Center. But there are, there's definitely like Filipino-built spaces, like only, like Filipino stores or like churches or I know that there's like a Filipino diamond society for like seniors who really built a space for them. Yeah, that's...it’s not really about like the physical spaces, but the people who create those spaces.
+
+**Claire Baguio**: Yeah, and speaking of those, those people, like you had a lot of mentors that helped you navigate, or like, create those spaces. That it sounds were...were there any? Yeah, sorry, I'm just going to rephrase that, because...Regarding those spaces, you see spaces for the community as other people. And it's, from what I'm, from my perspective, it sounds like you also feel that way about like your mentors as well. Do you really feel like they ushered you into those spaces?
+
+**JR**: I think so. Yeah. They definitely introduced me to those spaces a whole lot. And because of the, like, snowball effect, of like me meeting other people, like it's now only so natural to like, find these spaces, myself. Yeah, not only like through Instagram or like word of mouth. It's easier to find spaces now. Whereas like, maybe for someone who's not as involved in community, right? They're not seeing that these events exist, right? So like, you would go to these events and you would see the same people over and over again, right? Because like we're in the know, we're in the circle, right? Whereas, if you are still learning more about Filipino community...it’s harder to find these events.
+
+**CB**: You're, you're saying that it's like harder to find these events and spaces? If you're not, you know, quote unquote, “in the know.”
+
+**JR**: Yeah.
+
+**CB**: Do you feel like there is...like, is there...do you feel like there's a way to maybe bridge that gap?
+
+**JR**: I guess that's one of my personal hopes for Mabuhay House and the Cultural Center is that it's really going to be a hub for Filipino organizations, right? It’s kind of like that one stop hub for like oh, whether you are first, 1.5, second generation, even third generation Filipino of like, wanting to find community, like Mabuhay House will be that idea of, “oh, I can go to this space to, to find services, to find events, to find socials that are relevant to me.”
+
+## "And yeah, there's something about like seeing myself reflected back in like in the staff and like the people and in the faculty, where it was like, ah, yes, music and someone that seems familiar, I can latch onto that immediately."
+
+**Kathleen Zaragosa**: “I was a music kid for like, all of school. And I think like, I mean, for context, as well, like I grew up singing at a very early age. And then I think my parents had pinpointed that and was like, we're gonna put you into singing lessons now. And I started singing lessons. At the age of five, I was singing a lot at church, like learned hymns at a very early age. And I actually attribute like me learning Philippine languages to me learning how to sing songs first before I learned how to speak them. So like, that was all like, through my church upbringing. And through like, just being around the community, like that was very, it was nurtured at a very early age. And I grew up kind of like performing at church events and things like that, and like being on stage through my childhood. So like when I went to high school, actually, one of the only Filipino teachers was my choir teacher. I believe she's Filipino Malaysian. And yeah, there's something about like seeing myself reflected back in like in the staff and like the people and in the faculty, where it was like, Ah, yes, music and someone that seems familiar, I can latch onto that immediately. And then seeing other friends who had a very similar like music, upbringing experience, also kind of like, like, go full on into all the different music involvements, like we had a liturgy band, we have multiple choirs and like we went fully into that there was a musical that I joined in grade eight, and like I was auditioning for it even like in grade seven towards the  end of the school year. I'm so I was really just trying to set myself up for being like, Yeah, I'm going to be involved in these ways. And these are the ways that I'm going to be able to interact and like find more of a comfort level for myself, like set a baseline for myself. So that I don't feel so out of my depths, trying to adjust to a new environment. So I think yeah, like really, I was, I really emphasized, like, trying to do as many music things as I could, in an effort to like, stay connected with other people.”
