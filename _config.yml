@@ -12,7 +12,7 @@ url: https://kuwentongpamamahay.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /kp-home/
 # location of code, the full url to your github repository
-source-code: ttps://kuwentongpamamahay.github.io/kp-home/
+source-code: https://kuwentongpamamahay.github.io/kp-home/
 
 ##########
 # SITE SETTINGS
