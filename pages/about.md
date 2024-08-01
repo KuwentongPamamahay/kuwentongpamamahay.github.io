@@ -57,7 +57,7 @@ We were fortunate that an opportunity came up with the one time Provincial 150 T
 - Szu Shen
 - amanda wan
 
-[Public Humanities Hub](publichumanities.ubc.ca)] & [PhD Arts Co-op Placement](https://artscoop.ubc.ca/graduate/phd-co-op/)
+[Public Humanities Hub](publichumanities.ubc.ca) & [PhD Arts Co-op Placement](https://artscoop.ubc.ca/graduate/phd-co-op/)
 - Sydney Lines, Digital Developer 
 
 **[Heritage Vancouver Society](https://heritagevancouver.org/)**
