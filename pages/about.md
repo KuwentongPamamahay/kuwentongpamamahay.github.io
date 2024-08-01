@@ -74,5 +74,5 @@ We gratefully acknowledge the financial support of the Province of British Colum
 
 ## Image Credits
 
-The site header image is by [Cris Tagupa](https://unsplash.com/@cjtagupa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash).
+The site header image is by [Cris Tagupa](https://unsplash.com/@cjtagupa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/boat-on-seashore-lT7zmkth3o8).
   
