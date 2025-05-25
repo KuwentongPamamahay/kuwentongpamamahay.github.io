@@ -44,13 +44,26 @@ We were fortunate that an opportunity came up with the one time Provincial 150 T
 
 ## Project Team
 
-**[Sliced Mango Collective](https://www.instagram.com/slicedmangoco/)**
+**Community Organizations**
+
+[Heritage Vancouver Society](https://heritagevancouver.org/)
+- Bill Yuen
+
+[Sliced Mango Collective](https://www.instagram.com/slicedmangoco/)
 - Anne Claire Baguio
 - Jasper Mallonga
 - Jocelle Refol
 - Kathleen Zaragosa
 
+Community Consultants
+- Alyssa Sy de Jesus
+
 **University of British Columbia**
+
+[Arts Amplifier Collaborative Cohort](https://amplifier.arts.ubc.ca/paid-experiences/collaborative-cohort-based-projects/past-projects/)
+- Aiza Bragg
+- Maibell Ong
+- Samira Pourghanad
 
 [Asian Canadian and Asian Migration Studies](https://acam.arts.ubc.ca/)
 - Dr. JP Catungal 
@@ -59,12 +72,6 @@ We were fortunate that an opportunity came up with the one time Provincial 150 T
 
 [Public Humanities Hub](publichumanities.ubc.ca) & [PhD Arts Co-op Placement](https://artscoop.ubc.ca/graduate/phd-co-op/)
 - Sydney Lines, Digital Developer 
-
-**[Heritage Vancouver Society](https://heritagevancouver.org/)**
-- Bill Yuen
-
-**Community Consultants**
-- Alyssa Sy de Jesus
 
 ## Partners and Sponsors
 
